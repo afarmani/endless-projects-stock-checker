@@ -4,7 +4,7 @@
     <parent>
         <groupId>endless-projects-stock-checker</groupId>
         <artifactId>parent-project</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.0-SNAPSHOT</version>
     </parent>
     <artifactId>stock-checker-function</artifactId>
     <packaging>jar</packaging>
@@ -18,16 +18,10 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-lambda-java-core</artifactId>
-            <version>1.2.1</version>
         </dependency>
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-lambda-java-events</artifactId>
-            <version>3.6.0</version>
-        </dependency>
-        <dependency>
-            <groupId>com.google.code.gson</groupId>
-            <artifactId>gson</artifactId>
         </dependency>
         <dependency>
             <groupId>org.jsoup</groupId>
@@ -38,11 +32,14 @@
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
         </dependency>
-
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>endless-projects-stock-checker</groupId>
+            <artifactId>endless-projects-stock-checker-common</artifactId>
         </dependency>
     </dependencies>
 

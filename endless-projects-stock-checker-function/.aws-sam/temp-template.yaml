@@ -1,0 +1,9 @@
+Resources:
+  Function:
+    Type: AWS::Serverless::Function
+    Properties:
+      Timeout: 300
+      MemorySize: 128
+      Handler: com.endless.projects.stock.checker.lambda.StockCheckerFunction
+      CodeUri: C:\Users\Amir Farmani\IdeaProjects\endless-projects-stock-checker-parent\endless-projects-stock-checker-function
+      Runtime: java11
