@@ -5,9 +5,8 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Pickup {
+public class BestBuyDto {
 
-    private String status;
-    private boolean purchasable;
+    private Availabilities[] availabilities;
 
 }

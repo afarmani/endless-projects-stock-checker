@@ -1,0 +1,388 @@
+{
+  "availabilities": [
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": true
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": true
+      },
+      "sku": "15463567",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": true,
+      "isGiftCard": true,
+      "isService": true
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15166285",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15078017",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15530046",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15463568",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15530045",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "OutOfStock",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "SoldOutOnline",
+        "purchasable": false
+      },
+      "sku": "14969729",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15318940",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "14954116",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15229237",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "InStock",
+        "purchasable": true
+      },
+      "shipping": {
+        "status": "InStock",
+        "purchasable": true
+      },
+      "sku": "10416248",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15309513",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15084753",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15546964",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15147122",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15309514",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15373182",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15524485",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15493494",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "14954117",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15317226",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "ComingSoon",
+        "purchasable": false
+      },
+      "sku": "15547752",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "OutOfStock",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "SoldOutOnline",
+        "purchasable": false
+      },
+      "sku": "15201199",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    },
+    {
+      "pickup": {
+        "status": "OutOfStock",
+        "purchasable": false
+      },
+      "shipping": {
+        "status": "SoldOutOnline",
+        "purchasable": false
+      },
+      "sku": "15201201",
+      "sellerId": "bbyca",
+      "saleChannelExclusivity": "InStoreAndOnline",
+      "scheduledDelivery": false,
+      "isGiftCard": false,
+      "isService": false
+    }
+  ]
+}

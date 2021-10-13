@@ -1,4 +1,4 @@
-package helloworld;
+package com.endless.projects.stock.checker.jsoup;
 
 public class BestBuyTest {
     public final String BESTBUY_DOC_NAME = "bestbuy.html";

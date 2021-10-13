@@ -1,4 +1,4 @@
-package helloworld;
+package com.endless.projects.stock.checker.jsoup;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;

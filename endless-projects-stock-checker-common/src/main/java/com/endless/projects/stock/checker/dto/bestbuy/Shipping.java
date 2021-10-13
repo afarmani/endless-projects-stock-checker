@@ -5,7 +5,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class Pickup {
+public class Shipping {
 
     private String status;
     private boolean purchasable;
